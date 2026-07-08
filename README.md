@@ -85,6 +85,4 @@ The notebook reads it from there and falls back to a hidden prompt if it's missi
 - **Google Gen AI SDK** (`google-genai`) — the modern, unified SDK (the older `google-generativeai` is deprecated).
 - **Google Colab** — runtime for all sessions.
 - Gemini / Gemma models via the free tier.
-## License
- 
-Add your license of choice here (e.g. MIT).
+
