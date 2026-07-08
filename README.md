@@ -1,4 +1,4 @@
-# KFAS_LLM_Practice
+# KFAS(Kuwait Foundation for the Advancement of Sciences) LLM Practice
  
 Hands-on practice notebooks for working with language models — from calling a big model over an API, to running a small one locally, to building a retrieval-augmented (RAG) pipeline.
  
