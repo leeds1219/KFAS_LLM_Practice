@@ -2,7 +2,7 @@
 
 ## Group Project
 
-[Group_Project_Teams](https://docs.google.com/spreadsheets/d/1_KCicy61R7HHXu2eHyAYifcK2FQ15bGNu1XXb7TOTLs/edit?gid=0#gid=0) 
+[Group_Project_Teams_link](https://docs.google.com/spreadsheets/d/1_KCicy61R7HHXu2eHyAYifcK2FQ15bGNu1XXb7TOTLs/edit?gid=0#gid=0) 
 
 
 ## Sessions 
