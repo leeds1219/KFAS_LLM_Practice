@@ -1,4 +1,6 @@
 # KFAS KU Project LLM Practice
+
+[Group_Project_Teams](https://docs.google.com/spreadsheets/d/1_KCicy61R7HHXu2eHyAYifcK2FQ15bGNu1XXb7TOTLs/edit?gid=0#gid=0)
  
 Hands-on practice notebooks for working with language models — from calling a big model over an API, to running a small one locally, to building a retrieval-augmented (RAG) pipeline.
  
