@@ -15,7 +15,7 @@ Each session is a self-contained Google Colab notebook. No local setup required;
 | # | Topic | What you do | Open |
 |---|-------|-------------|------|
 | **1** | **LLM via API** | Call a large model (Gemini) running on Google's servers. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eStDw_4mMReJoeaASEJBCMO7gjqZVbtA) |
-| **2** | **SLM (local)** | Download and run a *small* model *inside* Colab, offline. | [![Open In Colab](https://colab.research.google.com/drive/1gO3gQryUrioZEpIVkghxCalT5w-aXgzR?usp=sharing) |
+| **2** | **SLM (local)** | Download and run a *small* model *inside* Colab, offline. | [![Open In Colab](https://colab.research.google.com/drive/1gO3gQryUrioZEpIVkghxCalT5w-aXgzR?usp=sharing)] |
 | **3** | **RAG** | Combine a retriever with a model to answer from your own documents. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rKPOUwPyuPMspLTeRc-9NCLZQQeQgeom) |
  
 The three sessions build on each other: Sessions 1 and 2 teach the two ways to run a model (remote vs. local), and Session 3 reuses both to build something useful.
